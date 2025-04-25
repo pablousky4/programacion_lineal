@@ -1,1 +1,4 @@
 ortools
+scipy
+pulp
+pyomo
