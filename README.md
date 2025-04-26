@@ -40,3 +40,5 @@ python ejemplo.py
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+![Image](https://github.com/user-attachments/assets/3c486158-3fec-4017-9a3a-3119f0df7572)
