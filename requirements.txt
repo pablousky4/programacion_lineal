@@ -1,4 +1,8 @@
 ortools
-scipy
-pulp
-pyomo
+SciPy
+PuLP
+Pyomo
+numpy
+pandas
+matplotlib
+SQLAlchemy
